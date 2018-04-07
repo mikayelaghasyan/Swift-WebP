@@ -14,9 +14,9 @@ Pod::Spec.new do |s|
   TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/awesome_octocat/WebP'
+  s.homepage         = 'https://github.com/mikayelaghasyan/Swift-WebP'
   s.authors = { 'PROJECT_OWNER' => 'USER_EMAIL' }
-  s.source = { :git => 'https://github.com/awesome_octocat/WebP.git', :tag => s.version }
+  s.source = { :git => 'https://github.com/mikayelaghasyan/Swift-WebP.git' }
   s.ios.deployment_target = '8.0'
   s.source_files = 'Source/*.swift'
   s.resource_bundles = {
